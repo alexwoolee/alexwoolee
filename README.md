@@ -1,5 +1,11 @@
-## Alex 👋
+## Alex W. Lee 🙉
 <p>Hi, I'm Alex. I want to code cool stuff.</p>
+<p>In my spare time, I enjoy:</p>
+<ul> 
+  <li>Playing games</li>
+  <li>Watching anime</li>
+  <li>Drawing</li>
+</ul>
 
 
 <!--
